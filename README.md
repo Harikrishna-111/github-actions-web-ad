@@ -27,8 +27,7 @@ To use this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pavankumarindian/GitHubActions-WebAppDeployment.git
-
+   git clone https://github.com/Harikrishna-111/github-actions-web-ad.git
 1. Configure your Tomcat server details as GitHub secrets:
     TOMCAT_HOST: The hostname or IP address of your Tomcat server.
     TOMCAT_USERNAME: The username for SSH access to your Tomcat server.
